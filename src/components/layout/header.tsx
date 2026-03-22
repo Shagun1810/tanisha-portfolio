@@ -20,8 +20,8 @@ import DownloadCV from '@/components/general/download-cv';
 import Typography from '@/components/general/typography';
 
 const Logo = () => (
-  <Typography variant="h3" className="font-bold">
-    {'Tanisha Gupta'}
+  <Typography variant="h2" className="font-bold">
+    {'<Tanisha Gupta />'}
   </Typography>
 );
 
