@@ -204,7 +204,7 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: 'E-Card Design',
     description:
-      'Designed an official poster for “ANANTYAM” under the Government of Maharashtra, highlighting the Global Economic Cooperation 2026 initiative. Focused on a structured layout, refined typography, and a premium visual hierarchy to convey authority and clarity.',
+      'Designed an elegant wedding e-invitation featuring intricate, culturally inspired illustrations and a refined visual composition. Focused on detailed elements, harmonious color palette, and sophisticated typography to create a luxurious and inviting aesthetic.',
     url: 'https://www.behance.net/gallery/246190133/E-Card-Design',
     previewImage: ProjectWeddingCard,
     technologies: [
@@ -215,7 +215,7 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: 'Banner Design',
     description:
-      'Designed an elegant wedding e-invitation featuring intricate, culturally inspired illustrations and a refined visual composition. Focused on detailed elements, harmonious color palette, and sophisticated typography to create a luxurious and inviting aesthetic.',
+      'Designed an official poster for “ANANTYAM” under the Government of Maharashtra, highlighting the Global Economic Cooperation 2026 initiative. Focused on a structured layout, refined typography, and a premium visual hierarchy to convey authority and clarity.',
     url: 'https://www.behance.net/gallery/246187435/Poster-Design',
     previewImage: ProjectGOMBanner,
     technologies: [
