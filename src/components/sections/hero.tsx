@@ -33,7 +33,7 @@ const HeroSection = () => {
               <span className="inline-block animate-waving-hand">👋</span>
             </Typography>
             <Typography>
-              Versatile Graphic Designer with 1+ years of experience creating intuitive digital interfaces and impactful brand visuals. 
+              Versatile Graphic Designer with 1.5+ years of experience creating intuitive digital interfaces and impactful brand visuals. 
               Proficient in Adobe Suite, CorelDRAW, Canva, and Figma for UI design, and creative layouts. 
               Skilled in branding, web and print design, with strong expertise in typography, visual hierarchy, and user-focused story telling.
             </Typography>
